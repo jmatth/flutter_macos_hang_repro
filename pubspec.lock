@@ -43,6 +43,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.16.0"
+  contextual_menu:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: cc-custom
+      resolved-ref: "88ff51c55531f5dfdc549c7b14e53ac274a67784"
+      url: "https://github.com/jmatth/contextual_menu.git"
+    source: git
+    version: "0.1.1"
   cupertino_icons:
     dependency: "direct main"
     description:
@@ -95,6 +104,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.4"
+  menu_base:
+    dependency: "direct overridden"
+    description:
+      path: "."
+      ref: cc-custom
+      resolved-ref: "2b24c83b69e9e63cd7a3fb1bd27d770d97f51d6c"
+      url: "https://github.com/jmatth/menu_base.git"
+    source: git
+    version: "0.1.0"
   meta:
     dependency: transitive
     description:
