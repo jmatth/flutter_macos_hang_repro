@@ -1,4 +1,4 @@
-name: background_issues_example
+name: flutter_macos_hang_repro
 description: A new Flutter project.
 
 publish_to: 'none'
